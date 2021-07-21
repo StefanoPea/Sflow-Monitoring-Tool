@@ -5,13 +5,11 @@
 This tool utilizes the sFlow packet sampling technology to determine the Top Talkers in the network.
 To decode sFlow data the tool utilizes a Python library called [python-sflow](https://github.com/pvanstam/python-sflow)
 
----
 
 ## Requirements
 
 * [sFlow](https://sflow.net/downloads.php)
 
----
 
 ## Run
 
